@@ -1,0 +1,9 @@
+import acm.graphics.*;
+import acm.program.*;
+import java.awt.*;
+
+public class RobotFace extends ConsoleProgram {	
+	
+	private static final int MAX_TERM_SIZE = 10000;
+	
+}
